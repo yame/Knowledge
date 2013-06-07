@@ -13,17 +13,23 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
 html { height: 101%; }
+
 body { font-size: 62.5%; line-height: 1; font-family: Arial, Tahoma, sans-serif; }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+
 ol, ul { list-style: none; }
 
 blockquote, q { quotes: none; }
+
 blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
+
 strong { font-weight: bold; } 
 
 table { border-collapse: collapse; border-spacing: 0; }
+
 img { border: 0; max-width: 100%; }
 
 p { font-size: 1.2em; line-height: 1.0em; color: #333; }
